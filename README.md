@@ -42,25 +42,25 @@
 ## 📂 Featured Projects
 
 ### [ClientSquare](https://github.com/AY2526S1-CS2103T-F08a-3/tp) (Current project)
-OOP-based Java application for **freelance property agents**  
-- Extended a brownfield AddressBook codebase to track **buyers, sellers, listings, and viewing schedules**  
-- Built in **Agile team environment** with sprint planning, PR reviews, and JUnit testing  
-- Emphasized **modular OOP design** for scalability and maintainability  
+OOP-based Java application for freelance property agents
+- Extended a brownfield AddressBook codebase to track buyers, sellers, listings, and viewing schedules  
+- Built in Agile team environment with sprint planning, PR reviews, and JUnit testing  
+- Emphasized modular OOP design for scalability and maintainability  
 
 ---
 
 ### [NovaGPT](https://github.com/balkinaveen/nova-gpt)  
-Java-based **chatbot** with modular backend architecture  
-- Handles **command parsing, task storage, and JavaFX UI**  
+Java-based chatbot with modular backend architecture  
+- Handles command parsing, task storage, and JavaFX UI
 - Applied OOP principles: extensible task classes, custom exceptions, reusable components  
 - Practiced version control and automated testing for reliability  
 
 ---
 
 ### [EasyPark](https://github.com/ram-nush/easy-park-1)  
-Cross-platform **mobile app** built with **React Native (Expo)**  
+Cross-platform mobile app built with React Native (Expo)  
 - Helps users quickly find parking lots in Singapore  
-- Integrated **LTA DataMall APIs** for real-time parking data  
+- Integrated LTA DataMall APIs for real-time parking data  
 - Designed modular UI and implemented user flows with teammates  
 
 ---
@@ -74,7 +74,7 @@ Cross-platform **mobile app** built with **React Native (Expo)**
 
 ## 🌱 Beyond Tech
 - Treasurer & Assistant Secretary, **Peoples’ Association Singapore**  
-- Planned and coordinated **large-scale community events** to strengthen grassroots participation  
+- Planned and coordinated large-scale community events to strengthen grassroots participation  
 
 ---
 
