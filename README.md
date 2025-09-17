@@ -1,7 +1,7 @@
 # Hi, I'm Naveen 👋
 
 🎓 Computer Science undergraduate at the **National University of Singapore (NUS)**  
-💻 Aspiring **Software Engineer** with strong foundations in **Object-Oriented Programming (OOP)**, algorithms, and system-level programming  
+💻 Aspiring **Software Engineer** with strong foundations in Object-Oriented Programming (OOP), algorithms, and system-level programming  
 🚀 Interested in building scalable systems, backend services, and impactful developer tools  
 
 ---
@@ -49,7 +49,7 @@ OOP-based Java application for **freelance property agents**
 
 ---
 
-### [NovaGPT](https://github.com/ram-nush/nova-gpt)  
+### [NovaGPT](https://github.com/balkinaveen/nova-gpt)  
 Java-based **chatbot** with modular backend architecture  
 - Handles **command parsing, task storage, and JavaFX UI**  
 - Applied OOP principles: extensible task classes, custom exceptions, reusable components  
