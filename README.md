@@ -73,8 +73,10 @@ Cross-platform mobile app built with React Native (Expo)
 ---
 
 ## 🌱 Beyond Tech
-- Treasurer & Assistant Secretary, **Peoples’ Association Singapore**  
-- Planned and coordinated large-scale community events to strengthen grassroots participation  
+- Volunteer @ **Peoples’ Association Singapore**  
+  - Treasurer, MacPherson Seasons Residents' Network
+  - Assistant Secretary, MacPherson CC Indian Activities Executive Committee
+- Plan and coordinate large-scale community events to strengthen grassroots participation  
 
 ---
 
