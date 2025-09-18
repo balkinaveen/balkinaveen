@@ -1,4 +1,4 @@
-# Hi, I'm Naveen 👋
+# Hi, I'm Naveen 
 
 🎓 Computer Science undergraduate at the **National University of Singapore (NUS)**  
 💻 Aspiring **Software Engineer** with strong foundations in Object-Oriented Programming (OOP), algorithms, and system-level programming  
